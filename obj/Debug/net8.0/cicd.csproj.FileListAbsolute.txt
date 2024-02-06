@@ -1,0 +1,14 @@
+C:\Users\Linkan\Desktop\cicd\bin\Debug\net8.0\cicd.exe
+C:\Users\Linkan\Desktop\cicd\bin\Debug\net8.0\cicd.deps.json
+C:\Users\Linkan\Desktop\cicd\bin\Debug\net8.0\cicd.runtimeconfig.json
+C:\Users\Linkan\Desktop\cicd\bin\Debug\net8.0\cicd.dll
+C:\Users\Linkan\Desktop\cicd\bin\Debug\net8.0\cicd.pdb
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.AssemblyInfoInputs.cache
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.AssemblyInfo.cs
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.csproj.CoreCompileInputs.cache
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.dll
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\refint\cicd.dll
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.pdb
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\cicd.genruntimeconfig.cache
+C:\Users\Linkan\Desktop\cicd\obj\Debug\net8.0\ref\cicd.dll
