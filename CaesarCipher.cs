@@ -29,7 +29,7 @@ class CaesarCipher
 
     static void Main()
     {
-        Console.WriteLine("Vänligen skriv in din text:");
+        Console.WriteLine("Vänligen skriv in din text, använd inte Å, Ä eller Ö:");
         string text = Console.ReadLine();
 
         Console.WriteLine("Välj ett förflyttningsvärde för kryptering (1-25):");
