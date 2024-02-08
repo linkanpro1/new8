@@ -32,7 +32,7 @@ class CaesarCipher
         Console.WriteLine("Vänligen skriv in din text:");
         string text = Console.ReadLine();
 
-        Console.WriteLine("Välj ett förflyttningsvärde för kryptering:");
+        Console.WriteLine("Välj ett förflyttningsvärde för kryptering (1-25):");
         int shift = int.Parse(Console.ReadLine());
 
         string encryptedText = Encrypt(text, shift);
