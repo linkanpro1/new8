@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Mf13dwJ6W3NiMvO6LAwndZzmSs4FqZAR53I5VhGditbowxNucVXdmgHVqxtamQJcw4yvMfv0fdTJBLEIgwneEA==",
+  "dgSpecHash": "ttxtJTCO0nLIfhtU0oRNSwyRHUNg96LChyt+Jcf2HrWXkui+9fWRPl9M152pJp9FGF6qViY6WZT/GCQRLrThxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Linkan\\Desktop\\cicd\\cicd.csproj",
   "expectedPackageFiles": [
@@ -165,7 +165,19 @@
     "C:\\Users\\Linkan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Linkan\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Linkan\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Linkan\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Linkan\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit\\2.6.6\\xunit.2.6.6.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.analyzers\\1.10.0\\xunit.analyzers.1.10.0.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.assert\\2.6.6\\xunit.assert.2.6.6.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.core\\2.6.6\\xunit.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.extensibility.core\\2.6.6\\xunit.extensibility.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.extensibility.execution\\2.6.6\\xunit.extensibility.execution.2.6.6.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\xunit.runner.console\\2.6.6\\xunit.runner.console.2.6.6.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Linkan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
