@@ -39,4 +39,3 @@ app.Run();
 {
         return Encrypt(text, 26 - shift);
 }
-*/
