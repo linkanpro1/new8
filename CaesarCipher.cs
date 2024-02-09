@@ -1,4 +1,4 @@
-﻿using System;
+﻿/* using System;
 
 class CaesarCipher
 {
@@ -42,3 +42,5 @@ class CaesarCipher
         Console.WriteLine("Avkrypterad text: " + decryptedText);
     }
 }
+
+/*
